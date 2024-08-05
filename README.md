@@ -1,6 +1,8 @@
-# quocgifya ([wolfram/pro-features](https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions))
+# quocgifya ([modelica](https://modelica.org/))
 
 Quocgifya is a fictional name used in this context. It appears to be a placeholder or a typographical error in the provided Markdown code snippet. The name does not have any specific meaning or connection to programming or any other context
+
+
 
 # Markdown Code snippet for Markdown
 
